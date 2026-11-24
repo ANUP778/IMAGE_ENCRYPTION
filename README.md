@@ -157,7 +157,7 @@ The encrypted image is then decrypted using this modified key to investigate key
 
 <div align="center">
 
-<img src="results/key_sensitivity/REPLACE_WITH_ACTUAL_FILENAME.png" width="850" alt="Key sensitivity comparison">
+<img src="results/wrong_key_comparison/miscellaneous__misc__4.1.01_wrong_key_comparison.png" width="850" alt="Key sensitivity comparison">
 
 **Figure 2: Decryption using the original and slightly modified cryptographic keys.**
 
