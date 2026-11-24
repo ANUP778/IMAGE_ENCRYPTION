@@ -143,7 +143,7 @@ The following visualizations demonstrate the transformation of an original image
 
 <div align="center">
 
-<img src="results/image_comparisons/REPLACE_WITH_ACTUAL_FILENAME.png" width="850" alt="Original, encrypted and decrypted image comparison">
+<img src="results/correct_key_comparison/miscellaneous__misc__4.1.01_correct_key_comparison.png" width="850" alt="Original, encrypted and decrypted image comparison">
 
 **Figure 1: Original, encrypted and correctly decrypted image.**
 
